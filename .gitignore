@@ -1,0 +1,14 @@
+# Arduino build artifacts
+*.elf
+*.hex
+*.bin
+*.eep
+*.map
+
+# Arduino sketchbook metadata
+*.log
+*.tmp
+
+# IDE/project files
+.vscode/
+.idea/
