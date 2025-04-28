@@ -77,5 +77,21 @@ Install these via the Arduino Library Manager:
   - Submitting a new message via the form immediately updates what the LoRa send task will broadcast on its next cycle.
 
 This section clarifies what you’ll actually see on each interface and how they relate to the FreeRTOS tasks running under the hood.
-<img width="337" alt="Screenshot 2025-04-28 010415" src="https://github.com/user-attachments/assets/71f0c266-c70e-4c85-bdbe-3602d2ba4dc2" />
-![photo_2025-04-28_01-02-09](https://github.com/user-attachments/assets/2ce20e21-6d04-435e-9eba-cfac481a9cb5)
+## Output Screenshots
+
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/71f0c266-c70e-4c85-bdbe-3602d2ba4dc2"
+    alt="Screenshot 2025-04-28 010415"
+    width="300"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/2ce20e21-6d04-435e-9eba-cfac481a9cb5"
+    alt="photo_2025-04-28_01-02-09"
+    width="300"
+  />
+</p>
+
