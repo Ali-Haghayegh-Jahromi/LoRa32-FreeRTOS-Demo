@@ -24,14 +24,6 @@ It will be devloped over time, so stay tuned!
 ## Hardware
 - **Board**: LilyGO LoRa32 T3 v1.6.1 (ESP32 + SX1276)  
 - **Display**: SSD1306 OLED (I²C, 128×64)
-  
-<p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/ae2f6752-aafb-44e8-8195-7d9c03055b27"
-    alt="LilyGO LoRa32 T3 v1.6.1 pinmap"
-    width="300"
-  />
-</p>  
 
 **Default Connections**  
 - OLED → ESP32 I²C (SDA/SCL)  
@@ -42,6 +34,13 @@ It will be devloped over time, so stay tuned!
   - SS  → GPIO 18  
   - RST → GPIO 14  
   - DIO0→ GPIO 26  
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/ae2f6752-aafb-44e8-8195-7d9c03055b27"
+    alt="LilyGO LoRa32 T3 v1.6.1 pinmap"
+    width="300"
+  />
+</p>  
 
 ## Software Dependencies
 
