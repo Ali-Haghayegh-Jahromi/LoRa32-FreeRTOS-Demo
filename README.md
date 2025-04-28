@@ -10,6 +10,8 @@ This project turns the **LilyGO LoRa32 T3 v1.6.1** (ESP32 + SX1276) into a multi
 - 🌐 **WiFi + HTTP**: hosts a simple form to change the next LoRa-TX message  
 - 🛠️ **FreeRTOS**: isolated tasks with mutex-protected SPI access  
 
+It will be devloped over time, so stay tuned!
+
 ## Features
 
 - **FreeRTOS tasks** pinned across both ESP32 cores  
