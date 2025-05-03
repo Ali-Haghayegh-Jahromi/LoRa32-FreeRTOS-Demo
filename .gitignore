@@ -1,14 +1,25 @@
 # Arduino build artifacts
+*.build/
 *.elf
-*.hex
 *.bin
-*.eep
+*.hex
 *.map
+*.lst
+*.a
+*.o
 
-# Arduino sketchbook metadata
-*.log
-*.tmp
-
-# IDE/project files
+# PlatformIO / VS Code
+.pio/
 .vscode/
-.idea/
+
+# macOS / Windows temporary files
+.DS_Store
+Thumbs.db
+
+# Arduino sketchbook backup files
+*~
+*.tmp
+*.bak
+
+# Serial monitor logs, database, etc.
+*.log
