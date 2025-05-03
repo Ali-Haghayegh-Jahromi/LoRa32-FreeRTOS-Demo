@@ -1,6 +1,6 @@
 # V 1.0
 
-A complete **Wi-Fi + HTTP server + OLED + LoRa** example for the [TTGO LoRa32 T3](https://github.com/LilyGO/TTGO-LoRa32) board, built on FreeRTOS tasks and using dual SPI buses (VSPI for LoRa, HSPI for SD-card). Features:
+A complete **Wi-Fi + HTTP server + OLED + LoRa** example, built on FreeRTOS tasks and using dual SPI buses (VSPI for LoRa, HSPI for SD-card). Features:
 
 - **Concurrent FreeRTOS tasks** for display, LoRa TX/RX, HTTP server, uptime counter, and LoRa health checks  
 - **SPI mutex** to guarantee safe transactions on both buses  
@@ -48,7 +48,7 @@ A complete **Wi-Fi + HTTP server + OLED + LoRa** example for the [TTGO LoRa32 T3
 3. **Install** libraries:  
    - Adafruit SSD1306 & GFX  
    - LoRa (Sandeep Mistry)  
-4. **Select** board: *TTGO LoRa32 T3*.  
+4. **Select** board: *Lilygo T-display*.  
 5. **Upload** sketch.
 
 -----------------------------------------------------------
