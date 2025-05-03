@@ -53,3 +53,6 @@ Install these via the Arduino Library Manager:
    ```bash 
    git clone https://github.com/Ali-Haghayegh-Jahromi/LoRa32-FreeRTOS-Demo.git
    cd LoRa32-FreeRTOS-Demo
+
+-----------------------------------------------------------
+MIT © Ali Haghayegh Jahromi
