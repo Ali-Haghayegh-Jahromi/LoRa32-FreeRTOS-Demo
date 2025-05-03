@@ -8,8 +8,8 @@
 #include                    <Adafruit_SSD1306.h>
 
 // ===== WiFi & HTTP Server Settings ===================================================================
-const char                  *ssid               = "TELUSBM9206";
-const char                  *password           = "h5tvH3RXRkxK";
+const char                  *ssid               = "ssid";
+const char                  *password           = "password";
 WebServer                   server              (80);
 IPAddress                   localIPAddress;
 
